@@ -257,7 +257,7 @@ span{
 .right-container li ,
 .left-container li{
     list-style-type: none;
-    font-size:1.3rem;
+    font-size:1.46rem;
     padding-bottom: 1rem;
     line-height: 2;
 
@@ -453,7 +453,7 @@ span{
 }
 
 .services-box p{
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     margin: 1rem 0.3rem;
     line-height: 2;
 }
@@ -585,6 +585,9 @@ span{
     .footer p{
         text-align: center;
         margin-top: 2rem;
+    }
+    section.services p {
+        font-size: 1.6rem;
     }
 }
 
